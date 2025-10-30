@@ -48,7 +48,9 @@ Exit
 2
 
 How much do you want to deposit?
+
 500
+
 Your current balance is 500.0 taka
 
 Welcome to the Simple Console ATM
@@ -65,7 +67,9 @@ Exit
 3
 
 How much do you want to withdraw?
+
 200
+
 You can withdraw maximum 100 taka!
 
 Welcome to the Simple Console ATM
