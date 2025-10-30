@@ -44,7 +44,9 @@ Deposit Funds
 Withdraw Funds
 
 Exit
+
 2
+
 How much do you want to deposit?
 500
 Your current balance is 500.0 taka
@@ -59,7 +61,9 @@ Deposit Funds
 Withdraw Funds
 
 Exit
+
 3
+
 How much do you want to withdraw?
 200
 You can withdraw maximum 100 taka!
@@ -74,7 +78,9 @@ Deposit Funds
 Withdraw Funds
 
 Exit
+
 4
+
 Thank you for using the ATM! Goodbye
 
 
