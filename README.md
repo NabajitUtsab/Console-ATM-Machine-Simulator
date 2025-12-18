@@ -114,7 +114,7 @@ Thank you for using the ATM! Goodbye
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simple-atm-machine.git
+   git clone https://github.com/NabajitUtsab/simple-atm-machine.git
 
 2. Navigate to the project folder:
 
